@@ -1,1 +1,0 @@
-javascript:var v=document.querySelector('video');if(v){var t=Math.floor(v.currentTime);var url=window.location.href.split('&t=')[0].split('#t=')[0]+(window.location.href.indexOf('?')>-1?'&':'?')+'t='+t+'s';navigator.clipboard.writeText(url);alert('Copied:%20'+url);}else{alert('No%20video%20found');}
