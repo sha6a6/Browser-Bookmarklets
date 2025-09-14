@@ -79,6 +79,7 @@ javascript:(function(){var saveBtn=document.querySelector('button[aria-label*="S
 **Note:** Only works on videos that are currently in your Watch Later playlist.
 
 📁 [View source code](https://github.com/sha6a6/Browser-Bookmarklets/blob/main/bookmarklets/youtube-remove-watch-later.js)
+🎥 [View DEMO](https://github.com/sha6a6/Browser-Bookmarklets/blob/main/Assets/watch-later-demo.gif)
 
 ---
 
